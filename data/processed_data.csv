@@ -1,343 +1,343 @@
 company,year,records,organization_type,method
-1177 Care Guide,2020,"2,700,000.00",medical/healthcare,third-party
-1to1help,2020,"300,000.00",medical/healthcare,misconfiguration
-3fun,2020,"1,500,000.00",app,misconfiguration
-Adobe Inc.,2020,"7,500,000.00",tech,misconfiguration
-AgusiQ-Torrents.pl,2020,"90,478.00",web,hacking
-Air New Zealand,2020,"100,000.00",automotive/transportation,hacking
-Amadeus IT Group,2020,"15,000,000.00",retail/hospitality,hacking
-AMC Networks,2020,"1,615,360.00",other,misconfiguration
-American Medical Collection Agency,2020,"20,000,000.00",medical/healthcare,hacking
-Armor Games,2020,"10,604,307.00",gaming,hacking
-ArtValue,2020,"157,692.00",web,misconfiguration
-Australian National University,2020,"200,000.00",education/academic,hacking
-Authentic Jobs,2020,"221,130.00",web,misconfiguration
+1177 Care Guide,2020,2700000.00,medical/healthcare,third-party
+1to1help,2020,300000.00,medical/healthcare,misconfiguration
+3fun,2020,1500000.00,app,misconfiguration
+Adobe Inc.,2020,7500000.00,tech,misconfiguration
+AgusiQ-Torrents.pl,2020,90478.00,web,hacking
+Air New Zealand,2020,100000.00,automotive/transportation,hacking
+Amadeus IT Group,2020,15000000.00,retail/hospitality,hacking
+AMC Networks,2020,1615360.00,other,misconfiguration
+American Medical Collection Agency,2020,20000000.00,medical/healthcare,hacking
+Armor Games,2020,10604307.00,gaming,hacking
+ArtValue,2020,157692.00,web,misconfiguration
+Australian National University,2020,200000.00,education/academic,hacking
+Authentic Jobs,2020,221130.00,web,misconfiguration
 Best Western Hotels & Resorts Group,2020,1,retail/hospitality,misconfiguration
-BlackSpigotMC,2020,"140,029.00",web,hacking
-Bodybuilding.com,2020,"7,000,000.00",web,hacking
-BreedReady,2020,"1,800,000.00",web,misconfiguration
-BriansClub,2020,"26,000,000.00",web,hacking
+BlackSpigotMC,2020,140029.00,web,hacking
+Bodybuilding.com,2020,7000000.00,web,hacking
+BreedReady,2020,1800000.00,web,misconfiguration
+BriansClub,2020,26000000.00,web,hacking
 British American Tobacco (BAT) - YOUniverse,2020,1,retail/hospitality,misconfiguration
-Bulgarian National Revenue Agency,2020,"5,000,000.00",government/military,hacking
-Cadlin,2020,"1,185,000.00",medical/healthcare,misconfiguration
-CafePress,2020,"23,205,290.00",retail/hospitality,hacking
-Calcioshop.it,2020,"408,995.00",retail/hospitality,misconfiguration
+Bulgarian National Revenue Agency,2020,5000000.00,government/military,hacking
+Cadlin,2020,1185000.00,medical/healthcare,misconfiguration
+CafePress,2020,23205290.00,retail/hospitality,hacking
+Calcioshop.it,2020,408995.00,retail/hospitality,misconfiguration
 Camgirl Sites,2020,1,web,misconfiguration
-Canva,2020,"137,272,116.00",web,hacking
-Capital One,2020,"106,000,000.00",finance/consulting,hacking
-Cashkaro,2020,"2,500,000.00",finance/consulting,misconfiguration
+Canva,2020,137272116.00,web,hacking
+Capital One,2020,106000000.00,finance/consulting,hacking
+Cashkaro,2020,2500000.00,finance/consulting,misconfiguration
 Cayman National Bank,2020,1,finance/consulting,hacking
-Cebuana Lhuillier,2020,"900,000.00",finance/consulting,hacking
-CenturyLink,2020,"2,800,000.00",telecommunications,misconfiguration
+Cebuana Lhuillier,2020,900000.00,finance/consulting,hacking
+CenturyLink,2020,2800000.00,telecommunications,misconfiguration
 Checkers & Rally,2020,1,retail/hospitality,hacking
-Chile Citizens,2020,"14,300,000.00",government/military,misconfiguration
-Choice Hotels,2020,"700,000.00",retail/hospitality,third-party
-Chtrbox,2020,"49,000,000.00",tech,misconfiguration
-ClearDent,2020,"60,000.00",medical/healthcare,misconfiguration
-Clover Sites,2020,"65,800.00",web,misconfiguration
-Club Penguin Rewritten,2020,"4,007,909.00",gaming,hacking
-Comodo,2020,"170,000.00",web,hacking
-Conor,2020,"1,000,000.00",tech,misconfiguration
-Cracked.to,2020,"749,161.00",web,hacking
-Credia.ge,2020,"142,571.00",finance/consulting,misconfiguration
-Credit Union Australia,2020,"92,000.00",finance/consulting,hacking
-Dalili,2020,"5,000,000.00",telecommunications,misconfiguration
-Datacamp,2020,"700,000.00",web,hacking
-Dealer Deals,2020,"198,000,000.00",web,misconfiguration
-Deardorff Communications,2020,"261,300.00",telecommunications,misconfiguration
-DeepThinkHealth,2020,"700,000.00",medical/healthcare,misconfiguration
-Demon Forums,2020,"52,623.00",web,hacking
-Desjardins,2020,"2,900,000.00",finance/consulting,inside_job
+Chile Citizens,2020,14300000.00,government/military,misconfiguration
+Choice Hotels,2020,700000.00,retail/hospitality,third-party
+Chtrbox,2020,49000000.00,tech,misconfiguration
+ClearDent,2020,60000.00,medical/healthcare,misconfiguration
+Clover Sites,2020,65800.00,web,misconfiguration
+Club Penguin Rewritten,2020,4007909.00,gaming,hacking
+Comodo,2020,170000.00,web,hacking
+Conor,2020,1000000.00,tech,misconfiguration
+Cracked.to,2020,749161.00,web,hacking
+Credia.ge,2020,142571.00,finance/consulting,misconfiguration
+Credit Union Australia,2020,92000.00,finance/consulting,hacking
+Dalili,2020,5000000.00,telecommunications,misconfiguration
+Datacamp,2020,700000.00,web,hacking
+Dealer Deals,2020,198000000.00,web,misconfiguration
+Deardorff Communications,2020,261300.00,telecommunications,misconfiguration
+DeepThinkHealth,2020,700000.00,medical/healthcare,misconfiguration
+Demon Forums,2020,52623.00,web,hacking
+Desjardins,2020,2900000.00,finance/consulting,inside_job
 DKLOK,2020,1,other,misconfiguration
-Docker Hub,2020,"190,000.00",tech,hacking
-Dominion National,2020,"2,964,778.00",medical/healthcare,hacking
-DoorDash,2020,"4,900,000.00",tech,third-party
-Dow Jones Watchlist,2020,"2,418,862.00",retail/hospitality,third-party
-EatStreet,2020,"6,353,564.00",retail/hospitality,hacking
-Ecuadorian Citizens,2020,"20,800,000.00",government/military,misconfiguration
-Electronic Settlements Limited,2020,"2,590,000.00",finance/consulting,misconfiguration
-Electronic Settlements Limited,2020,"8,000,000.00",finance/consulting,misconfiguration
-EpicBot,2020,"816,662.00",web,hacking
-Everybody Edits,2020,"871,190.00",web,hacking
-Facebook,2020,"419,000,000.00",tech,misconfiguration
-Facebook,2020,"540,000,000.00",tech,third-party
-FamilaFacil,2020,"551,587.00",web,misconfiguration
-Federal Emergency Management Agency (FEMA),2020,"2,300,000.00",government/military,other
-First American Corporation,2020,"885,000,000.00",finance/consulting,misconfiguration
-Flash Flash Revolution,2020,"1,858,124.00",gaming,hacking
-Flipboard,2020,"145,000,000.00",tech,hacking
-Fortnite,2020,"200,000,000.00",gaming,misconfiguration
-Freedom Mobile,2020,"1,500,000.00",telecommunications,misconfiguration
-GameSalad,2020,"1,506,242.00",web,hacking
+Docker Hub,2020,190000.00,tech,hacking
+Dominion National,2020,2964778.00,medical/healthcare,hacking
+DoorDash,2020,4900000.00,tech,third-party
+Dow Jones Watchlist,2020,2418862.00,retail/hospitality,third-party
+EatStreet,2020,6353564.00,retail/hospitality,hacking
+Ecuadorian Citizens,2020,20800000.00,government/military,misconfiguration
+Electronic Settlements Limited,2020,2590000.00,finance/consulting,misconfiguration
+Electronic Settlements Limited,2020,8000000.00,finance/consulting,misconfiguration
+EpicBot,2020,816662.00,web,hacking
+Everybody Edits,2020,871190.00,web,hacking
+Facebook,2020,419000000.00,tech,misconfiguration
+Facebook,2020,540000000.00,tech,third-party
+FamilaFacil,2020,551587.00,web,misconfiguration
+Federal Emergency Management Agency (FEMA),2020,2300000.00,government/military,other
+First American Corporation,2020,885000000.00,finance/consulting,misconfiguration
+Flash Flash Revolution,2020,1858124.00,gaming,hacking
+Flipboard,2020,145000000.00,tech,hacking
+Fortnite,2020,200000000.00,gaming,misconfiguration
+Freedom Mobile,2020,1500000.00,telecommunications,misconfiguration
+GameSalad,2020,1506242.00,web,hacking
 Garmin,2020,1,retail/hospitality,hacking
-Gartner,2020,"155,000,000.00",tech,misconfiguration
-GateHub,2020,"1,408,078.00",web,hacking
-Gearbest,2020,"1,500,000.00",web,misconfiguration
+Gartner,2020,155000000.00,tech,misconfiguration
+GateHub,2020,1408078.00,web,hacking
+Gearbest,2020,1500000.00,web,misconfiguration
 Geisinger Health Plan,2020,1,medical/healthcare,third-party
-Gekko Group,2020,"1,000,000.00",retail/hospitality,misconfiguration
-Georgia Tech,2020,"1,300,000.00",education/academic,hacking
-Groupe Phosphore - Henrri,2020,"27,286.00",web,misconfiguration
-Groupe Phosphore - Rivalis,2020,"339,787.00",web,misconfiguration
-Health sciences Authority,2020,"808,201.00",medical/healthcare,third-party
-Honda Motor Company,2020,"134,000,000.00",automotive/transportation,misconfiguration
-Honda Motor Company,2020,"26,000.00",automotive/transportation,misconfiguration
-Hookers.nl,2020,"290,955.00",web,hacking
-Hostinger,2020,"14,000,000.00",web,hacking
-Hy-vee,2020,"5,300,000.00",retail/hospitality,hacking
-Immediata Health Group,2020,"1,500,000.00",medical/healthcare,misconfiguration
-India Government Healthcare Agnecy,2020,"12,500,000.00",medical/healthcare,misconfiguration
-Indian Citizens,2020,"275,265,298.00",web,misconfiguration
-ixigo,2020,"17,204,697.00",web,hacking
-Jana Cash,2020,"2,600,000.00",finance/consulting,third-party
-Jcrush,2020,"200,000.00",tech,misconfiguration
-Justdial,2020,"100,000,000.00",tech,misconfiguration
-K12.com,2020,"6,988,504.00",education/academic,misconfiguration
-kent State University,2020,"3,000.00",education/academic,hacking
-La Poste,2020,"23,000,000.00",government/military,misconfiguration
-Labcorp,2020,"7,700,000.00",medical/healthcare,third-party
-Ladders,2020,"13,000,000.00",web,misconfiguration
-Landmark White,2020,"270,000.00",retail/hospitality,inside_job
-Leadership for Educational Equity (LEE),2020,"3,690,000.00",other,misconfiguration
-Libreria Porrua,2020,"1,018,997.00",web,misconfiguration
-LifeLabs,2020,"15,000,000.00",medical/healthcare,hacking
+Gekko Group,2020,1000000.00,retail/hospitality,misconfiguration
+Georgia Tech,2020,1300000.00,education/academic,hacking
+Groupe Phosphore - Henrri,2020,27286.00,web,misconfiguration
+Groupe Phosphore - Rivalis,2020,339787.00,web,misconfiguration
+Health sciences Authority,2020,808201.00,medical/healthcare,third-party
+Honda Motor Company,2020,134000000.00,automotive/transportation,misconfiguration
+Honda Motor Company,2020,26000.00,automotive/transportation,misconfiguration
+Hookers.nl,2020,290955.00,web,hacking
+Hostinger,2020,14000000.00,web,hacking
+Hy-vee,2020,5300000.00,retail/hospitality,hacking
+Immediata Health Group,2020,1500000.00,medical/healthcare,misconfiguration
+India Government Healthcare Agnecy,2020,12500000.00,medical/healthcare,misconfiguration
+Indian Citizens,2020,275265298.00,web,misconfiguration
+ixigo,2020,17204697.00,web,hacking
+Jana Cash,2020,2600000.00,finance/consulting,third-party
+Jcrush,2020,200000.00,tech,misconfiguration
+Justdial,2020,100000000.00,tech,misconfiguration
+K12.com,2020,6988504.00,education/academic,misconfiguration
+kent State University,2020,3000.00,education/academic,hacking
+La Poste,2020,23000000.00,government/military,misconfiguration
+Labcorp,2020,7700000.00,medical/healthcare,third-party
+Ladders,2020,13000000.00,web,misconfiguration
+Landmark White,2020,270000.00,retail/hospitality,inside_job
+Leadership for Educational Equity (LEE),2020,3690000.00,other,misconfiguration
+Libreria Porrua,2020,1018997.00,web,misconfiguration
+LifeLabs,2020,15000000.00,medical/healthcare,hacking
 LightInTheBox,2020,1,web,misconfiguration
-Lion Group,2020,"30,000,000.00",automotive/transportation,inside_job
+Lion Group,2020,30000000.00,automotive/transportation,inside_job
 "Love, Bonito",2020,1,web,hacking
-Lumin PDF,2020,"15,453,048.00",web,hacking
-Luscious,2020,"1,200,000.00",web,misconfiguration
+Lumin PDF,2020,15453048.00,web,hacking
+Luscious,2020,1200000.00,web,misconfiguration
 Macy,2020,1,retail/hospitality,hacking
-Mastercard Priceless Specials,2020,"89,388.00",finance/consulting,hacking
-Medicare Supplement.com,2020,"5,000,000.00",medical/healthcare,misconfiguration
-Medico,2020,"307,139.00",medical/healthcare,third-party
-Methodist HospitalS,2020,"68,039.00",medical/healthcare,hacking
-Mindjolt,2020,"28,364,826.00",web,hacking
-Minehut,2020,"396,533.00",web,hacking
-Ministry of Health (Singapore),2020,"14,200.00",medical/healthcare,inside_job
-MixCloud,2020,"21,000,000.00",web,hacking
-Mountberg Limited Casinos,2020,"108,000,000.00",web,misconfiguration
-MoviePass,2020,"161,000,000.00",web,misconfiguration
-NAIIS,2020,"80,000.00",medical/healthcare,misconfiguration
-Neoclinical,2020,"37,000.00",medical/healthcare,misconfiguration
+Mastercard Priceless Specials,2020,89388.00,finance/consulting,hacking
+Medicare Supplement.com,2020,5000000.00,medical/healthcare,misconfiguration
+Medico,2020,307139.00,medical/healthcare,third-party
+Methodist HospitalS,2020,68039.00,medical/healthcare,hacking
+Mindjolt,2020,28364826.00,web,hacking
+Minehut,2020,396533.00,web,hacking
+Ministry of Health (Singapore),2020,14200.00,medical/healthcare,inside_job
+MixCloud,2020,21000000.00,web,hacking
+Mountberg Limited Casinos,2020,108000000.00,web,misconfiguration
+MoviePass,2020,161000000.00,web,misconfiguration
+NAIIS,2020,80000.00,medical/healthcare,misconfiguration
+Neoclinical,2020,37000.00,medical/healthcare,misconfiguration
 OnePlus,2020,1,tech,hacking
-Operation Intelimost,2020,"3,073,409.00",web,misconfiguration
-Ordine Avvocati di Roma,2020,"41,960.00",other,hacking
-Orvibo,2020,"1,000,000.00",tech,misconfiguration
+Operation Intelimost,2020,3073409.00,web,misconfiguration
+Ordine Avvocati di Roma,2020,41960.00,other,hacking
+Orvibo,2020,1000000.00,tech,misconfiguration
 Orvis,2020,1,retail/hospitality,other
-Panama Citizens,2020,"3,427,396.00",government/military,misconfiguration
-PayMyTab,2020,"10,000.00",web,misconfiguration
-PDL Customer,2020,"622,161,052.00",web,misconfiguration
-Poshmark,2020,"50,000,000.00",retail/hospitality,hacking
-Pouringpounds,2020,"1,000,000.00",finance/consulting,misconfiguration
-PrankDial,2020,"138,000,000.00",telecommunications,misconfiguration
+Panama Citizens,2020,3427396.00,government/military,misconfiguration
+PayMyTab,2020,10000.00,web,misconfiguration
+PDL Customer,2020,622161052.00,web,misconfiguration
+Poshmark,2020,50000000.00,retail/hospitality,hacking
+Pouringpounds,2020,1000000.00,finance/consulting,misconfiguration
+PrankDial,2020,138000000.00,telecommunications,misconfiguration
 Pyramid Hotel Group,2020,1,retail/hospitality,misconfiguration
-Quest Diagnostics,2020,"11,900,000.00",medical/healthcare,third-party
-Quickbit,2020,"300,000.00",web,misconfiguration
-Russian Citizens,2020,"20,000,000.00",government/military,misconfiguration
-SavingStar,2020,"3,000,000.00",app,misconfiguration
-Sberbank,2020,"18,000,000.00",finance/consulting,inside_job
-Sephora,2020,"3,200,000.00",web,other
-Sichuan Lianhao Technology Group Co. Ltd (Smart Family Doctor),2020,"24,000,000.00",medical/healthcare,misconfiguration
-Social Engineered,2020,"89,392.00",web,hacking
-Sonic Jobs,2020,"29,202.00",web,misconfiguration
-Stella Prism,2020,"300,000.00",medical/healthcare,misconfiguration
-Steps to Recovery,2020,"145,000.00",medical/healthcare,misconfiguration
-StockX,2020,"7,431,360.00",web,hacking
-Suprema,2020,"28,000,000.00",tech,misconfiguration
-T-Mobile,2020,"1,000,000.00",telecommunications,hacking
+Quest Diagnostics,2020,11900000.00,medical/healthcare,third-party
+Quickbit,2020,300000.00,web,misconfiguration
+Russian Citizens,2020,20000000.00,government/military,misconfiguration
+SavingStar,2020,3000000.00,app,misconfiguration
+Sberbank,2020,18000000.00,finance/consulting,inside_job
+Sephora,2020,3200000.00,web,other
+Sichuan Lianhao Technology Group Co. Ltd (Smart Family Doctor),2020,24000000.00,medical/healthcare,misconfiguration
+Social Engineered,2020,89392.00,web,hacking
+Sonic Jobs,2020,29202.00,web,misconfiguration
+Stella Prism,2020,300000.00,medical/healthcare,misconfiguration
+Steps to Recovery,2020,145000.00,medical/healthcare,misconfiguration
+StockX,2020,7431360.00,web,hacking
+Suprema,2020,28000000.00,tech,misconfiguration
+T-Mobile,2020,1000000.00,telecommunications,hacking
 Tech Data Corporation,2020,1,finance/consulting,misconfiguration
-ToonDoo,2020,"6,002,694.00",web,hacking
-Toyota,2020,"3,100,000.00",automotive/transportation,hacking
-Transerve,2020,"458,388.00",tech,misconfiguration
-TrendMicro,2020,"68,000.00",tech,inside_job
-TrueDialog,2020,"100,000,000.00",tech,misconfiguration
-Tu Ora Compass Health,2020,"1,000,000.00",medical/healthcare,hacking
-Tuft & Needle,2020,"236,400.00",retail/hospitality,misconfiguration
-UAB Alabama,2020,"20,000.00",medical/healthcare,hacking
-UniCredit,2020,"3,000,000.00",finance/consulting,hacking
-Universiti Teknologi MARA,2020,"1,164,540.00",education/academic,hacking
-Facebook,2020,"267,140,436.00",web,misconfiguration
-US Birth Certificates,2020,"752,000.00",government/military,misconfiguration
-US Customers and Border Protection,2020,"100,000.00",government/military,third-party
-US Households,2020,"80,000,000.00",web,misconfiguration
-Vascepa,2020,"78,000.00",medical/healthcare,misconfiguration
-Vedantu,2020,"686,899.00",education/academic,misconfiguration
+ToonDoo,2020,6002694.00,web,hacking
+Toyota,2020,3100000.00,automotive/transportation,hacking
+Transerve,2020,458388.00,tech,misconfiguration
+TrendMicro,2020,68000.00,tech,inside_job
+TrueDialog,2020,100000000.00,tech,misconfiguration
+Tu Ora Compass Health,2020,1000000.00,medical/healthcare,hacking
+Tuft & Needle,2020,236400.00,retail/hospitality,misconfiguration
+UAB Alabama,2020,20000.00,medical/healthcare,hacking
+UniCredit,2020,3000000.00,finance/consulting,hacking
+Universiti Teknologi MARA,2020,1164540.00,education/academic,hacking
+Facebook,2020,267140436.00,web,misconfiguration
+US Birth Certificates,2020,752000.00,government/military,misconfiguration
+US Customers and Border Protection,2020,100000.00,government/military,third-party
+US Households,2020,80000000.00,web,misconfiguration
+Vascepa,2020,78000.00,medical/healthcare,misconfiguration
+Vedantu,2020,686899.00,education/academic,misconfiguration
 Veed.io,2020,1,web,misconfiguration
-Verifications.io,2020,"763,117,241.00",web,misconfiguration
-Verlo Mattress Factory,2020,"387,604.00",web,misconfiguration
-Vistaprint,2020,"51,000.00",web,misconfiguration
-void.to,2020,"95,431.00",web,hacking
-VoterVoice,2020,"300,000.00",government/military,misconfiguration
-web.com,2020,"22,000,000.00",web,hacking
-WeDidIt,2020,"7,500,000.00",web,misconfiguration
-Westpac,2020,"98,000.00",finance/consulting,hacking
-Whirlpool,2020,"48,000.00",tech,misconfiguration
-Wiener Buchereien,2020,"224,119.00",web,hacking
-Wifi Finder,2020,"2,000,000.00",app,misconfiguration
-Wirecard AG,2020,"4,367,040.00",tech,hacking
-Wizards of the Coast,2020,"452,634.00",web,misconfiguration
-XKCD Forum,2020,"561,991.00",tech,hacking
-xSocialMedia,2020,"150,000.00",tech,misconfiguration
-YouHodler,2020,"80,000,000.00",tech,misconfiguration
-YouNow,2020,"18,241,518.00",web,hacking
-Yves Rocher,2020,"2,500,000.00",retail/hospitality,misconfiguration
-Zooville,2020,"71,407.00",web,hacking
-Zynga,2020,"218,000,000.00",tech,hacking
-Wyze,2020,"2,400,000.00",tech,misconfiguration
-The Cabinet Office,2020,"1,000.00",government/military,other
-Big Asian Data Leak,2020,"2,700,000,000.00",web,misconfiguration
+Verifications.io,2020,763117241.00,web,misconfiguration
+Verlo Mattress Factory,2020,387604.00,web,misconfiguration
+Vistaprint,2020,51000.00,web,misconfiguration
+void.to,2020,95431.00,web,hacking
+VoterVoice,2020,300000.00,government/military,misconfiguration
+web.com,2020,22000000.00,web,hacking
+WeDidIt,2020,7500000.00,web,misconfiguration
+Westpac,2020,98000.00,finance/consulting,hacking
+Whirlpool,2020,48000.00,tech,misconfiguration
+Wiener Buchereien,2020,224119.00,web,hacking
+Wifi Finder,2020,2000000.00,app,misconfiguration
+Wirecard AG,2020,4367040.00,tech,hacking
+Wizards of the Coast,2020,452634.00,web,misconfiguration
+XKCD Forum,2020,561991.00,tech,hacking
+xSocialMedia,2020,150000.00,tech,misconfiguration
+YouHodler,2020,80000000.00,tech,misconfiguration
+YouNow,2020,18241518.00,web,hacking
+Yves Rocher,2020,2500000.00,retail/hospitality,misconfiguration
+Zooville,2020,71407.00,web,hacking
+Zynga,2020,218000000.00,tech,hacking
+Wyze,2020,2400000.00,tech,misconfiguration
+The Cabinet Office,2020,1000.00,government/military,other
+Big Asian Data Leak,2020,2700000000.00,web,misconfiguration
 Posta Electtronica Certificata (PEC),2020,1,web,misconfiguration
 Wawa,2020,1,retail/hospitality,hacking
-Evite,2020,"10,000,000.00",web,hacking
-Twitter,2020,"17,000,000.00",tech,other
-Texas Lottery,2020,"89,000",government/military,inside_job
-TikTok,2020,"42,000,000",tech,poor_security
-Nintendo (Nintendo Account),2020,"160,000",tech,hacking
-Tetrad,2020,"120,000,000",organization,poor_security
-CheckFree Corporation,2020,"5,000,000",organization,hacking
-Brooke Army Medical Center,2020,"1,000",medical/healthcare,lost/stolen
-"Mid America Kidney Stone Association, LLC",2020,"1,000",medical/healthcare,hacking
-"medical for Children with Special Needs, Inc.",2020,"3,800",medical/healthcare,lost/stolen
-"Mark D. Lurie, MD",2020,"5,166",medical/healthcare,hacking
-Yale University,2020,"43,000",education/academic,accidental
-TD Ameritrade,2020,"6,300,000",organization,hacking
-RBS Worldpay,2020,"1,500,000",organization,hacking
-Service Personnel and Veterans Agency (UK),2020,"50,500",government/military,lost/stolen
-Norwegian Tax Administration,2020,"3,950,000",government/military,accidental
-Automatic Data Processing,2020,"125,000",organization,poor_security
-Lincoln Medical & Mental Health Center,2020,"130,495",medical/healthcare,lost/stolen
-SlickWraps,2020,"377,428",organization,poor_security
-Monster.com,2020,"1,600,000",tech,hacking
-Gap Inc.,2020,"800,000",organization,lost/stolen
-Colorado government,2020,"105,470",medical/healthcare,lost/stolen
-National Archives and Records Administration (U.S. military veterans records),2020,"76,000,000",government/military,lost/stolen
+Evite,2020,10000000.00,web,hacking
+Twitter,2020,17000000.00,tech,other
+Texas Lottery,2020,89000,government/military,inside_job
+TikTok,2020,42000000,tech,poor_security
+Nintendo (Nintendo Account),2020,160000,tech,hacking
+Tetrad,2020,120000000,organization,poor_security
+CheckFree Corporation,2020,5000000,organization,hacking
+Brooke Army Medical Center,2020,1000,medical/healthcare,lost/stolen
+"Mid America Kidney Stone Association, LLC",2020,1000,medical/healthcare,hacking
+"medical for Children with Special Needs, Inc.",2020,3800,medical/healthcare,lost/stolen
+"Mark D. Lurie, MD",2020,5166,medical/healthcare,hacking
+Yale University,2020,43000,education/academic,accidental
+TD Ameritrade,2020,6300000,organization,hacking
+RBS Worldpay,2020,1500000,organization,hacking
+Service Personnel and Veterans Agency (UK),2020,50500,government/military,lost/stolen
+Norwegian Tax Administration,2020,3950000,government/military,accidental
+Automatic Data Processing,2020,125000,organization,poor_security
+Lincoln Medical & Mental Health Center,2020,130495,medical/healthcare,lost/stolen
+SlickWraps,2020,377428,organization,poor_security
+Monster.com,2020,1600000,tech,hacking
+Gap Inc.,2020,800000,organization,lost/stolen
+Colorado government,2020,105470,medical/healthcare,lost/stolen
+National Archives and Records Administration (U.S. military veterans records),2020,76000000,government/military,lost/stolen
 Griffin Hospital,2020,957,medical/healthcare,hacking
-"Hypertension, Nephrology, Dialysis and Transplantation, PC",2020,"2,465",medical/healthcare,hacking
+"Hypertension, Nephrology, Dialysis and Transplantation, PC",2020,2465,medical/healthcare,hacking
 "Computer Program and Systems, Inc. (CPSI)",2020,768,tech,hacking
-DSW Inc.,2020,"1,400,000",organization,hacking
-Embassy Cables,2020,"251,000",government/military,inside_job
-"AvMed, Inc.",2020,"1,220,000",medical/healthcare,lost/stolen
-BlueCross BlueShield of Tennessee,2020,"1,023,209",medical/healthcare,lost/stolen
-Ameritrade,2020,"200,000",organization,lost/stolen
+DSW Inc.,2020,1400000,organization,hacking
+Embassy Cables,2020,251000,government/military,inside_job
+"AvMed, Inc.",2020,1220000,medical/healthcare,lost/stolen
+BlueCross BlueShield of Tennessee,2020,1023209,medical/healthcare,lost/stolen
+Ameritrade,2020,200000,organization,lost/stolen
 "University of Louisville Research Foundation, Inc., DBA The Kidney Disease Program",2020,708,education/academic,hacking
 Betsson Group,2020,0,tech,other
-Clearview AI,2020,"3,000,000,000",tech,hacking
+Clearview AI,2020,3000000000,tech,hacking
 Koodo Mobile,2020,0,telecommunications,hacking
-U.S. government (United States diplomatic cables leak),2020,"260,000",government/military,inside_job
-Hewlett Packard,2020,"200,000",tech,lost/stolen
-Virgin Media,2020,"900,000",organization,accidental
-Heartland,2020,"130,000,000",organization,hacking
-TK / TJ Maxx,2020,"94,000,000",organization,hacking
-Unknown agency,2020,"200,000,000",organization,accidental
-Citigroup,2020,"3,900,000",organization,lost/stolen
-University of Utah Hospital & Clinics,2020,"2,200,000",education/academic,lost/stolen
-Marriott International,2020,"5,200,000",organization,inside_job
-Instagram,2020,"200,000,000",tech,poor_security
-AOL,2020,"92,000,000",tech,inside_job
-Dai Nippon Printing,2020,"8,637,405",organization,inside_job
-Countrywide Financial Corp,2020,"2,600,000",organization,inside_job
-AT&T,2020,"114,000",tech,hacking
-Educational Credit Management Corporation,2020,"3,300,000",organization,lost/stolen
-Betfair,2020,"2,300,000",tech,hacking
-AOL,2020,"20,000,000",tech,accidental
-UK Driving Standards Agency,2020,"3,000,000",government/military,lost/stolen
-U.S. Army,2020,"392,000",government/military,inside_job
-U.S. Department of Defense,2020,"72,000",government/military,lost/stolen
-Auction.co.kr,2020,"18,000,000",tech,hacking
-New York City Health & Hospitals Corp.,2020,"1,700,000",medical/healthcare,lost/stolen
-Data Processors International,2020,"8,000,000",organization,hacking
-Gawker,2020,"1,500,000",tech,hacking
-Wawa (company),2020,"30,000,000",organization,hacking
-UK Ministry of Defence,2020,"1,700,000",government/military,lost/stolen
-EasyJet,2020,"9,000,000",organization,hacking
-CardSystems Solutions Inc.,2020,"40,000,000",organization,hacking
-Stanford University,2020,"72,000",education/academic,lost/stolen
-Federal Reserve Bank of Cleveland,2020,"400,000",organization,hacking
-UK Revenue & Customs,2020,"25,000,000",government/military,lost/stolen
-"Affinity Health Plan, Inc.",2020,"344,579",medical/healthcare,lost/stolen
-DentaQuest,2020,"10,515",organization,hacking
-Comprehensive Care Management Corporation,2020,"1,020",medical/healthcare,lost/stolen
-The Children's Medical Center of Dayton,2020,"1,001",medical/healthcare,lost/stolen
-University of Kentucky,2020,"2,027",medical/healthcare,hacking
+U.S. government (United States diplomatic cables leak),2020,260000,government/military,inside_job
+Hewlett Packard,2020,200000,tech,lost/stolen
+Virgin Media,2020,900000,organization,accidental
+Heartland,2020,130000000,organization,hacking
+TK / TJ Maxx,2020,94000000,organization,hacking
+Unknown agency,2020,200000000,organization,accidental
+Citigroup,2020,3900000,organization,lost/stolen
+University of Utah Hospital & Clinics,2020,2200000,education/academic,lost/stolen
+Marriott International,2020,5200000,organization,inside_job
+Instagram,2020,200000000,tech,poor_security
+AOL,2020,92000000,tech,inside_job
+Dai Nippon Printing,2020,8637405,organization,inside_job
+Countrywide Financial Corp,2020,2600000,organization,inside_job
+AT&T,2020,114000,tech,hacking
+Educational Credit Management Corporation,2020,3300000,organization,lost/stolen
+Betfair,2020,2300000,tech,hacking
+AOL,2020,20000000,tech,accidental
+UK Driving Standards Agency,2020,3000000,government/military,lost/stolen
+U.S. Army,2020,392000,government/military,inside_job
+U.S. Department of Defense,2020,72000,government/military,lost/stolen
+Auction.co.kr,2020,18000000,tech,hacking
+New York City Health & Hospitals Corp.,2020,1700000,medical/healthcare,lost/stolen
+Data Processors International,2020,8000000,organization,hacking
+Gawker,2020,1500000,tech,hacking
+Wawa (company),2020,30000000,organization,hacking
+UK Ministry of Defence,2020,1700000,government/military,lost/stolen
+EasyJet,2020,9000000,organization,hacking
+CardSystems Solutions Inc.,2020,40000000,organization,hacking
+Stanford University,2020,72000,education/academic,lost/stolen
+Federal Reserve Bank of Cleveland,2020,400000,organization,hacking
+UK Revenue & Customs,2020,25000000,government/military,lost/stolen
+"Affinity Health Plan, Inc.",2020,344579,medical/healthcare,lost/stolen
+DentaQuest,2020,10515,organization,hacking
+Comprehensive Care Management Corporation,2020,1020,medical/healthcare,lost/stolen
+The Children's Medical Center of Dayton,2020,1001,medical/healthcare,lost/stolen
+University of Kentucky,2020,2027,medical/healthcare,hacking
 alma aguado md pa,2020,600,medical/healthcare,hacking
-"Augusta Data Storage, Inc",2020,"14,000",organization,lost/stolen
-University Health System,2020,"7,526",medical/healthcare,hacking
-RockYou!,2020,"32,000,000",tech,hacking
-"T-Mobile, Deutsche Telekom",2020,"17,000,000",tech,lost/stolen
-Network Solutions,2020,"573,000",tech,hacking
-UK Home Office,2020,"84,000",government/military,lost/stolen
+"Augusta Data Storage, Inc",2020,14000,organization,lost/stolen
+University Health System,2020,7526,medical/healthcare,hacking
+RockYou!,2020,32000000,tech,hacking
+"T-Mobile, Deutsche Telekom",2020,17000000,tech,lost/stolen
+Network Solutions,2020,573000,tech,hacking
+UK Home Office,2020,84000,government/military,lost/stolen
 Memorial Hospital of Gardena,2020,771,medical/healthcare,hacking
-Oklahoma City VA Medical Center,2020,"1,950",medical/healthcare,lost/stolen
+Oklahoma City VA Medical Center,2020,1950,medical/healthcare,lost/stolen
 Kings County Hospital Center,2020,542,medical/healthcare,lost/stolen
-University of Tennessee Medical Center,2020,"8,200",medical/healthcare,hacking
+University of Tennessee Medical Center,2020,8200,medical/healthcare,hacking
 zarzamora family dental care,2020,800,medical/healthcare,hacking
-Hospital Auxilio Mutuo,2020,"1,000",medical/healthcare,hacking
-"Gair Medical Transcription Services, Inc.",2020,"1,085",organization,hacking
-University of Miami,2020,"2,100,000",education/academic,lost/stolen
-Health Net,2020,"500,000",medical/healthcare,lost/stolen
-The Bank of New York Mellon,2020,"12,500,000",organization,lost/stolen
-"Ankle & Foot Center of Tampa Bay, Inc.",2020,"156,000",medical/healthcare,hacking
-JailCore,2020,"36,000",government/military,poor_security
-"Emergency Healthcare Physicians, Ltd.",2020,"180,111",medical/healthcare,lost/stolen
-Compass Bank,2020,"1,000,000",organization,inside_job
-Ministry of Education (Chile),2020,"6,000,000",government/military,accidental
-City and Hackney Teaching Primary Care Trust,2020,"160,000",medical/healthcare,lost/stolen
-AT&T,2020,"113,000",tech,lost/stolen
-Hannaford Brothers Supermarket Chain,2020,"4,200,000",organization,hacking
-JP Morgan Chase,2020,"2,600,000",organization,lost/stolen
-YouTube,2020,"4,000,000",tech,poor_security
-"Jefferson County, West Virginia",2020,"1,600,000",government/military,accidental
-GS Caltex,2020,"11,100,000",organization,inside_job
-U.S. Department of Veteran Affairs,2020,"26,500,000",government/military,lost/stolen
-"University of California, Berkeley",2020,"160,000",education/academic,hacking
-Virginia Prescription Monitoring Program,2020,"531,400",medical/healthcare,hacking
-Starbucks,2020,"97,000",organization,lost/stolen
-Virginia Department of Health,2020,"8,257,378",government/military,hacking
-Fidelity National Information Services,2020,"8,500,000",organization,inside_job
-Ohio State University,2020,"760,000",education/academic,hacking
-"South Shore Hospital, Massachusetts",2020,"800,000",medical/healthcare,lost/stolen
-KDDI,2020,"4,000,000",tech,hacking
-"Seacoast Radiology, PA",2020,"231,400",medical/healthcare,hacking
-Puerto Rico Department of Health,2020,"515,000",medical/healthcare,hacking
-National Guard of the United States,2020,"131,000",government/military,lost/stolen
-CheckPeople,2020,"56,000,000",organization,other
-"Triple-S Salud, Inc.",2020,"398,000",medical/healthcare,lost/stolen
-Bank of America,2020,"1,200,000",organization,lost/stolen
-oneclass,2020,"1,000,000",education/academic,hacking
-Bluekai,2020,"2,000,000,000",organization,hacking
-Postbank,2020,"8,000,000",organization,hacking
-Keepnet Labs,2020,"50,000,000,000",organization,hacking
- CPA ,2020,"329,000",tech,hacking
- Truecaller,2020,"4,750,000",tech,hacking
- LiveJournal,2020,"26,300,000",organization,hacking
-AIS,2020,"8,300,000,000",organization,hacking
- Mathway,2020,"2,500,000",education/academic,hacking
-EHTERAZ,2020,"100,000,000",tech,hacking
- Indonesia,2020,"2,300,000",government/military,hacking
-EasyJet,2020,"9,000,000",organization,hacking
-CDEC ,2020,"9,000,000",organization,hacking
- MobiFriends,2020,"3,700,000",organization,hacking
-Unacademy,2020,"21,909,707",education/academic,hacking
-Tokopedia,2020,"9,100,000",organization,hacking
-ExecuPharm,2020,"5,600,000",medical/healthcare,hacking
-Nintendo,2020,"160,000",tech,hacking
-GoDaddy,2020,"28,000",tech,hacking
-Marriott,2020,"5,200,000",organization,hacking
- Norwegian Cruise Line,2020,"3,700,000",organization,hacking
-Rogers,2020,"78,000",tech,hacking
-Princess Cruises,2020,"69,000",organization,hacking
- The Dutch Government,2020,"6,900,000",government/military,hacking
-"Antheus Tecnologia,",2020,"810,000,000",tech,hacking
-goth,2020,"201,162,598",organization,hacking
-Virgin Media,2020,"9,000,000",tech,hacking
-"Slickwraps,",2020,"330,000",organization,hacking
-The United Nations,2020,"51,600,000",organization,hacking
-LabCorp,2020,"10,000",organization,hacking
-Wyze,2020,"2,400,000",tech,hacking
-Wawa,2020,"550,000",organization,hacking
- Facebook,2020,"26,700,000",tech,hacking
-LifeLabs,2020,"1,500,000",medical/healthcare,hacking
-OnePlus,2020,"450,000",tech,hacking
-T-Mobile,2020,"1,000,000",tech,hacking
+Hospital Auxilio Mutuo,2020,1000,medical/healthcare,hacking
+"Gair Medical Transcription Services, Inc.",2020,1085,organization,hacking
+University of Miami,2020,2100000,education/academic,lost/stolen
+Health Net,2020,500000,medical/healthcare,lost/stolen
+The Bank of New York Mellon,2020,12500000,organization,lost/stolen
+"Ankle & Foot Center of Tampa Bay, Inc.",2020,156000,medical/healthcare,hacking
+JailCore,2020,36000,government/military,poor_security
+"Emergency Healthcare Physicians, Ltd.",2020,180111,medical/healthcare,lost/stolen
+Compass Bank,2020,1000000,organization,inside_job
+Ministry of Education (Chile),2020,6000000,government/military,accidental
+City and Hackney Teaching Primary Care Trust,2020,160000,medical/healthcare,lost/stolen
+AT&T,2020,113000,tech,lost/stolen
+Hannaford Brothers Supermarket Chain,2020,4200000,organization,hacking
+JP Morgan Chase,2020,2600000,organization,lost/stolen
+YouTube,2020,4000000,tech,poor_security
+"Jefferson County, West Virginia",2020,1600000,government/military,accidental
+GS Caltex,2020,11100000,organization,inside_job
+U.S. Department of Veteran Affairs,2020,26500000,government/military,lost/stolen
+"University of California, Berkeley",2020,160000,education/academic,hacking
+Virginia Prescription Monitoring Program,2020,531400,medical/healthcare,hacking
+Starbucks,2020,97000,organization,lost/stolen
+Virginia Department of Health,2020,8257378,government/military,hacking
+Fidelity National Information Services,2020,8500000,organization,inside_job
+Ohio State University,2020,760000,education/academic,hacking
+"South Shore Hospital, Massachusetts",2020,800000,medical/healthcare,lost/stolen
+KDDI,2020,4000000,tech,hacking
+"Seacoast Radiology, PA",2020,231400,medical/healthcare,hacking
+Puerto Rico Department of Health,2020,515000,medical/healthcare,hacking
+National Guard of the United States,2020,131000,government/military,lost/stolen
+CheckPeople,2020,56000000,organization,other
+"Triple-S Salud, Inc.",2020,398000,medical/healthcare,lost/stolen
+Bank of America,2020,1200000,organization,lost/stolen
+oneclass,2020,1000000,education/academic,hacking
+Bluekai,2020,2000000000,organization,hacking
+Postbank,2020,8000000,organization,hacking
+Keepnet Labs,2020,50000000000,organization,hacking
+ CPA ,2020,329000,tech,hacking
+ Truecaller,2020,4750000,tech,hacking
+ LiveJournal,2020,26300000,organization,hacking
+AIS,2020,8300000000,organization,hacking
+ Mathway,2020,2500000,education/academic,hacking
+EHTERAZ,2020,100000000,tech,hacking
+ Indonesia,2020,2300000,government/military,hacking
+EasyJet,2020,9000000,organization,hacking
+CDEC ,2020,9000000,organization,hacking
+ MobiFriends,2020,3700000,organization,hacking
+Unacademy,2020,21909707,education/academic,hacking
+Tokopedia,2020,9100000,organization,hacking
+ExecuPharm,2020,5600000,medical/healthcare,hacking
+Nintendo,2020,160000,tech,hacking
+GoDaddy,2020,28000,tech,hacking
+Marriott,2020,5200000,organization,hacking
+ Norwegian Cruise Line,2020,3700000,organization,hacking
+Rogers,2020,78000,tech,hacking
+Princess Cruises,2020,69000,organization,hacking
+ The Dutch Government,2020,6900000,government/military,hacking
+"Antheus Tecnologia,",2020,810000000,tech,hacking
+goth,2020,201162598,organization,hacking
+Virgin Media,2020,9000000,tech,hacking
+"Slickwraps,",2020,330000,organization,hacking
+The United Nations,2020,51600000,organization,hacking
+LabCorp,2020,10000,organization,hacking
+Wyze,2020,2400000,tech,hacking
+Wawa,2020,550000,organization,hacking
+ Facebook,2020,26700000,tech,hacking
+LifeLabs,2020,1500000,medical/healthcare,hacking
+OnePlus,2020,450000,tech,hacking
+T-Mobile,2020,1000000,tech,hacking
 MIcrosoft,2020,250000000,tech,hacking
 Toyota,2020,120000000,organization,hacking
 ÒUniCredit,2020,3000000,organization,hacking
@@ -542,34 +542,34 @@ Walgreen Co.,2020,160000,organization,lost/stolen
 "Mercy Medical Center Redding - Oncology Clinic, Privacy Manager Breach",2020,21000,medical/healthcare,hacking
 Northwestern Memorial HealthCare,2020,16025,organization,lost/stolen
 Saint Louis County Department of Health,2020,4000,medical/healthcare,hacking
-Ministry of Health (Singapore),2019,"14,200",medical/healthcare,inside_job
-Universiti Teknologi MARA,2019,"1,164,540",education/academic,hacking
+Ministry of Health (Singapore),2019,14200,medical/healthcare,inside_job
+Universiti Teknologi MARA,2019,1164540,education/academic,hacking
 Woodruff Arts Center,2019,0,organization,poor_security
-ElasticSearch,2019,"108,000,000",tech,poor_security
-Facebook,2019,"540,000,000",tech,poor_security
-2019 Bulgarian revenue agency hack,2019,"5,000,000",government/military,hacking
-Adobe Inc.,2019,"7,500,000",tech,poor_security
-DoorDash,2019,"4,900,000",tech,hacking
-Zynga,2019,"173,000,000",tech,hacking
-Canva,2019,"140,000,000",tech,hacking
-Cook County Health & Hospitals System,2019,"267,000,000",tech,poor_security
-Desjardins,2019,"2,900,000",organization,inside_job
-Airtel,2019,"320,000,000",telecommunications,poor_security
-Quest Diagnostics,2019,"11,900,000",organization,poor_security
-MongoDB,2019,"275,000,000",tech,poor_security
-Capital One,2019,"106,000,000",organization,unprotected
-Mobile TeleSystems (MTS),2019,"100,000,000",telecommunications,misconfiguration
-LifeLabs,2019,"15,000,000",medical/healthcare,hacking
-Justdial,2019,"100,000,000",tech,unprotected
-Microsoft,2019,"250,000,000",tech,misconfiguration
+ElasticSearch,2019,108000000,tech,poor_security
+Facebook,2019,540000000,tech,poor_security
+2019 Bulgarian revenue agency hack,2019,5000000,government/military,hacking
+Adobe Inc.,2019,7500000,tech,poor_security
+DoorDash,2019,4900000,tech,hacking
+Zynga,2019,173000000,tech,hacking
+Canva,2019,140000000,tech,hacking
+Cook County Health & Hospitals System,2019,267000000,tech,poor_security
+Desjardins,2019,2900000,organization,inside_job
+Airtel,2019,320000000,telecommunications,poor_security
+Quest Diagnostics,2019,11900000,organization,poor_security
+MongoDB,2019,275000000,tech,poor_security
+Capital One,2019,106000000,organization,unprotected
+Mobile TeleSystems (MTS),2019,100000000,telecommunications,misconfiguration
+LifeLabs,2019,15000000,medical/healthcare,hacking
+Justdial,2019,100000000,tech,unprotected
+Microsoft,2019,250000000,tech,misconfiguration
 Amazon Japan G.K.,2019,0,tech,accidental
-Facebook,2019,"1,500,000",tech,accidental
-Health Sciences Authority (Singapore),2019,"808,000",medical/healthcare,poor_security
-MongoDB,2019,"202,000,000",tech,poor_security
-Westpac,2019,"98,000",organization,hacking
-First American Corporation,2019,"885,000,000",organization,poor_security
-StockX,2019,"6,800,000",organization,hacking
-Truecaller,2019,"299,055,000",tech,other
+Facebook,2019,1500000,tech,accidental
+Health Sciences Authority (Singapore),2019,808000,medical/healthcare,poor_security
+MongoDB,2019,202000000,tech,poor_security
+Westpac,2019,98000,organization,hacking
+First American Corporation,2019,885000000,organization,poor_security
+StockX,2019,6800000,organization,hacking
+Truecaller,2019,299055000,tech,other
 Australian National University,2019,6935,education/academic,hacking
 "IHC medical, Inc. dba Intermountain Life Flight",2019,857,medical/healthcare,hacking
 Seattle - King County Department of Public Health,2019,750,medical/healthcare,hacking
@@ -615,33 +615,33 @@ Florida Department of Health,2019,2477,medical/healthcare,hacking
 "The Corvallis Clinic, P.C.",2019,41000,medical/healthcare,hacking
 Children's Eyewear Sight,2019,1030,organization,hacking
 WordPress,2018,20000,tech,hacking
-MyHeritage,2018,"92,283,889",organization,other
-Cathay Pacific Airways,2018,"9,400,000",organization,hacking
-Bell Canada,2018,"100,000",tech,hacking
-Under Armour,2018,"150,000,000",organization,hacking
+MyHeritage,2018,92283889,organization,other
+Cathay Pacific Airways,2018,9400000,organization,hacking
+Bell Canada,2018,100000,tech,hacking
+Under Armour,2018,150000000,organization,hacking
 Bethesda Game Studios,2018,0,tech,accidental
-Popsugar,2018,"123,857",organization,hacking
-500px,2018,"14,870,304",tech,hacking
-Orbitz,2018,"880,000",tech,hacking
-BMO and Simplii,2018,"90,000",organization,poor_security
-Earl Enterprises,2018,"2,000,000",organization,hacking
-SingHealth,2018,"1,500,000",government/military,hacking
-AerServ (subsidiary of InMobi),2018,"75,000",retail/hospitality,hacking
-Blank Media Games,2018,"7,633,234",tech,hacking
+Popsugar,2018,123857,organization,hacking
+500px,2018,14870304,tech,hacking
+Orbitz,2018,880000,tech,hacking
+BMO and Simplii,2018,90000,organization,poor_security
+Earl Enterprises,2018,2000000,organization,hacking
+SingHealth,2018,1500000,government/military,hacking
+AerServ (subsidiary of InMobi),2018,75000,retail/hospitality,hacking
+Blank Media Games,2018,7633234,tech,hacking
 Dubsmash,2018,162 000000,tech,hacking
-Facebook,2018,"50,000,000",tech,poor_security
-Quora,2018,"100,000,000",tech,hacking
-Marriott International,2018,"500,000,000",organization,hacking
-Exactis,2018,"340,000,000",organization,poor_security
-2018 British Airways cyberattack,2018,"500,000",organization,hacking
+Facebook,2018,50000000,tech,poor_security
+Quora,2018,100000000,tech,hacking
+Marriott International,2018,500000000,organization,hacking
+Exactis,2018,340000000,organization,poor_security
+2018 British Airways cyberattack,2018,500000,organization,hacking
 Reddit,2018,0,tech,hacking
-Google Plus,2018,"500,000",tech,poor_security
-Centers for Medicare & Medicaid Services,2018,"75,000",medical/healthcare,hacking
-Ticketfly (subsidiary of Eventbrite),2018,"26,151,608",organization,hacking
+Google Plus,2018,500000,tech,poor_security
+Centers for Medicare & Medicaid Services,2018,75000,medical/healthcare,hacking
+Ticketfly (subsidiary of Eventbrite),2018,26151608,organization,hacking
 Typeform,2018,0,tech,poor_security
-HauteLook,2018,"28,517,244",organization,hacking
-United States Postal Service,2018,"60,000,000",government/military,poor_security
-Air Canada,2018,"20,000",organization,hacking
+HauteLook,2018,28517244,organization,hacking
+United States Postal Service,2018,60000000,government/military,poor_security
+Air Canada,2018,20000,organization,hacking
 Patterson Dental Supply/Patterson Companies,2018,6400,medical/healthcare,lost/stolen
 ZDI,2018,14829,medical/healthcare,other
 Indiana University Health Arnett,2018,10350,medical/healthcare,hacking
@@ -681,15 +681,15 @@ Memorial Healthcare System,2018,1782,medical/healthcare,hacking
 "Computer Programs and Systems, Inc. ",2018,25764,medical/healthcare,hacking
 Independence Blue Cross and AmeriHealth New Jersey,2018,12450,organization,hacking
 University Hospitals,2018,833,medical/healthcare,hacking
-Uber,2017,"57,000,000",organization,hacking
-Bell Canada,2017,"1,900,000",tech,poor_security
-"Gary C. Spinks, DMD, PC",2017,"1,000",medical/healthcare,hacking
-Taringa!,2017,"28,722,877",tech,hacking
+Uber,2017,57000000,organization,hacking
+Bell Canada,2017,1900000,tech,poor_security
+"Gary C. Spinks, DMD, PC",2017,1000,medical/healthcare,hacking
+Taringa!,2017,28722877,tech,hacking
 Defense Integrated Data Center (South Korea),2017,246415360,government/military,hacking
 Deloitte,2017,3505214,finance/consulting,poor_security
 Heathrow Airport,2017,2621440,organization,lost/stolen
-Grozio Chirurgija,2017,"25,000",medical/healthcare,hacking
-Equifax,2017,"163,119,000",organization,poor_security
+Grozio Chirurgija,2017,25000,medical/healthcare,hacking
+Equifax,2017,163119000,organization,poor_security
 "HealthCare for Women, Inc.",2017,8727,medical/healthcare,hacking
 UMASSAmherst,2017,1670,medical/healthcare,hacking
 "Horizon Healthcare Services, Inc., doing business as Horizon Blue Cross Blue Shield of New Jersey, and its affiliates",2017,839711,organization,hacking
@@ -707,27 +707,27 @@ Open Cities Health Center,2017,1304,medical/healthcare,lost/stolen
 Brigham and Women's Hospital,2017,999,medical/healthcare,lost/stolen
 "District Medical Group, Privacy Manager Breach",2017,616,organization,other
 "Aspire Indiana, Inc.",2017,43890,medical/healthcare,hacking
-University of Central Florida,2016,"63,000",education/academic,hacking
-TaxSlayer.com,2016,"8,800",tech,hacking
-US Department of Homeland Security,2016,"30,000",government/military,poor_security
+University of Central Florida,2016,63000,education/academic,hacking
+TaxSlayer.com,2016,8800,tech,hacking
+US Department of Homeland Security,2016,30000,government/military,poor_security
 Rosen Hotels,2016,0,organization,hacking
-21st Century Oncology,2016,"2,200,000",medical/healthcare,hacking
-"University of California, Berkeley",2016,"80,000",education/academic,hacking
-Democratic National Committee,2016,"19,252",organization,other
-Philippines Commission on Elections,2016,"55,000,000",government/military,hacking
-Weebly,2016,"43,430,316",tech,hacking
-Friend Finder Networks,2016,"412,214,295",tech,poor_security
-Apple Health Medicaid,2016,"91,000",medical/healthcare,poor_security
+21st Century Oncology,2016,2200000,medical/healthcare,hacking
+"University of California, Berkeley",2016,80000,education/academic,hacking
+Democratic National Committee,2016,19252,organization,other
+Philippines Commission on Elections,2016,55000000,government/military,hacking
+Weebly,2016,43430316,tech,hacking
+Friend Finder Networks,2016,412214295,tech,poor_security
+Apple Health Medicaid,2016,91000,medical/healthcare,poor_security
 Ofcom,2016,0,tech,inside_job
-Nival Networks,2016,"1,500,000",tech,hacking
-Taobao,2016,"20,000,000",organization,hacking
-Central Coast Credit Union,2016,"60,000",organization,hacking
+Nival Networks,2016,1500000,tech,hacking
+Taobao,2016,20000000,organization,hacking
+Central Coast Credit Union,2016,60000,organization,hacking
 EyeWire,2016,0,tech,lost/stolen
 Gyft,2016,0,tech,hacking
-KM.RU,2016,"1,500,000",tech,hacking
-Inuvik hospital,2016,"6,700",medical/healthcare,inside_job
-Verizon Communications,2016,"1,500,000",tech,hacking
-Cox Communications,2016,"40,000",tech,hacking
+KM.RU,2016,1500000,tech,hacking
+Inuvik hospital,2016,6700,medical/healthcare,inside_job
+Verizon Communications,2016,1500000,tech,hacking
+Cox Communications,2016,40000,tech,hacking
 Goold Health System (Goold),2016,6332,organization,lost/stolen
 "QuickRunner, Inc. (dba, RoadRunner Mailing Services)",2016,2455,organization,hacking
 Kmart Corporation,2016,12542,medical/healthcare,hacking
@@ -759,34 +759,34 @@ Kmart Corporation,2016,1866,medical/healthcare,hacking
 M&M Computer Services,2016,4500,organization,hacking
 City of Dallas Fire-Rescue Department,2016,1000,medical/healthcare,hacking
 "Jessie Trice Community Health Center, Inc.",2016,7888,organization,hacking
-Premera,2015,"11,000,000",medical/healthcare,hacking
-Scottrade,2015,"4,600,000",organization,hacking
-Excellus BlueCross BlueShield,2015,"10,000,000",medical/healthcare,hacking
-Xat.com,2015,"6,054,459",tech,other
-Slack,2015,"500,000",tech,poor_security
-Patreon,2015,"2,300,000",tech,hacking
+Premera,2015,11000000,medical/healthcare,hacking
+Scottrade,2015,4600000,organization,hacking
+Excellus BlueCross BlueShield,2015,10000000,medical/healthcare,hacking
+Xat.com,2015,6054459,tech,other
+Slack,2015,500000,tech,poor_security
+Patreon,2015,2300000,tech,hacking
 CVS,2015,2000000,organization,hacking
 Starwood Hotels including Westin Hotels and Sheraton hotel,2015,54215,organization,hacking
-CareFirst BlueCross Blue Shield - Maryland,2015,"1,100,000",medical/healthcare,hacking
-Walmart,2015,"1,300,000",organization,hacking
+CareFirst BlueCross Blue Shield - Maryland,2015,1100000,medical/healthcare,hacking
+Walmart,2015,1300000,organization,hacking
 Australian Immigration Department,2015,0,government/military,accidental
-VTech,2015,"5,000,000",organization,hacking
+VTech,2015,5000000,organization,hacking
 Wendy's,2015,0,organization,hacking
 Hyatt Hotels,2015,250,organization,hacking
-Ashley Madison,2015,"32,000,000",tech,hacking
-Experian - T-Mobile US,2015,"15,000,000",tech,hacking
-Internal Revenue Service,2015,"720,000",organization,hacking
+Ashley Madison,2015,32000000,tech,hacking
+Experian - T-Mobile US,2015,15000000,tech,hacking
+Internal Revenue Service,2015,720000,organization,hacking
 Natural Grocers,2015,935641,organization,hacking
-H.E.L.P. Financial Corporation,2015,"9,475",organization,hacking
-Anthem Inc.,2015,"80,000,000",medical/healthcare,hacking
+H.E.L.P. Financial Corporation,2015,9475,organization,hacking
+Anthem Inc.,2015,80000000,medical/healthcare,hacking
 Twitch,2015,0,tech,hacking
-"UCLA Medical Center, Santa Monica",2015,"4,500,000",medical/healthcare,hacking
-US Office of Personnel Management,2015,"21,500,000",government/military,hacking
+"UCLA Medical Center, Santa Monica",2015,4500000,medical/healthcare,hacking
+US Office of Personnel Management,2015,21500000,government/military,hacking
 "Landry's, Inc.",2015,500,organization,hacking
 British Airways,2015,100000,organization,hacking
-Ancestry.com,2015,"300,000",tech,poor_security
-Medical Informatics Engineering,2015,"3,900,000",medical/healthcare,hacking
-Bailey's Inc.,2015,"250,000",organization,hacking
+Ancestry.com,2015,300000,tech,poor_security
+Medical Informatics Engineering,2015,3900000,medical/healthcare,hacking
+Bailey's Inc.,2015,250000,organization,hacking
 Maine Medical Center,2015,1920,medical/healthcare,hacking
 Rite Aid #10217,2015,2600,medical/healthcare,lost/stolen
 TMG Health,2015,3794,medical/healthcare,hacking
@@ -832,31 +832,31 @@ MD Manage (Vcarve LLC),2015,35357,medical/healthcare,lost/stolen
 Coordinated Health,2015,13907,organization,hacking
 Colorado River Indian Tribes,2015,1296,medical/healthcare,hacking
 Pediatric Gastroenterology Consultants,2015,5000,medical/healthcare,hacking
-"University of Maryland, College Park",2014,"300,000",education/academic,hacking
-LexisNexis,2014,"1,000,000",tech,hacking
-Michaels,2014,"3,000,000",organization,hacking
+"University of Maryland, College Park",2014,300000,education/academic,hacking
+LexisNexis,2014,1000000,tech,hacking
+Michaels,2014,3000000,organization,hacking
 European Central Bank,2014,0,organization,hacking
 Trump Hotels,2014,8,organization,hacking
 Supervalu,2014,200,organization,hacking
-Uber,2014,"50,000",tech,poor_security
-Mozilla,2014,"76,000",tech,poor_security
-Yahoo,2014,"500,000,000",tech,hacking
-AOL,2014,"2,400,000",tech,hacking
+Uber,2014,50000,tech,poor_security
+Mozilla,2014,76000,tech,poor_security
+Yahoo,2014,500000000,tech,hacking
+AOL,2014,2400000,tech,hacking
 Mandarin Oriental Hotels,2014,10523,organization,hacking
-New York Taxis,2014,"52,000",organization,poor_security
+New York Taxis,2014,52000,organization,poor_security
 Sony Pictures,2014,104857600,tech,hacking
-Gmail,2014,"5,000,000",tech,hacking
-Home Depot,2014,"56,000,000",organization,hacking
-Community Health Systems,2014,"4,500,000",medical/healthcare,hacking
-Domino's Pizza (France),2014,"600,000",tech,hacking
-JP Morgan Chase,2014,"76,000,000",organization,hacking
-MacRumors.com,2014,"860,000",tech,hacking
-Hilton Hotels,2014,"363,000",organization,hacking
+Gmail,2014,5000000,tech,hacking
+Home Depot,2014,56000000,organization,hacking
+Community Health Systems,2014,4500000,medical/healthcare,hacking
+Domino's Pizza (France),2014,600000,tech,hacking
+JP Morgan Chase,2014,76000000,organization,hacking
+MacRumors.com,2014,860000,tech,hacking
+Hilton Hotels,2014,363000,organization,hacking
 NASDAQ,2014,0,organization,hacking
 UPS,2014,51,organization,hacking
-Korea Credit Bureau,2014,"20,000,000",organization,inside_job
-Neiman Marcus,2014,"1,100,000",organization,hacking
-eBay,2014,"145,000,000",tech,hacking
+Korea Credit Bureau,2014,20000000,organization,inside_job
+Neiman Marcus,2014,1100000,organization,hacking
+eBay,2014,145000000,tech,hacking
 North Los Angeles County Regional Center,2014,18162,organization,hacking
 University of Florida,2014,14519,medical/healthcare,lost/stolen
 Hospice and Palliative Care Center of Alamance Caswell,2014,5370,organization,lost/stolen
@@ -892,34 +892,34 @@ New York City Health & Hospitals Corporation,2014,10058,organization,lost/stolen
 mdINR LLC,2014,1859,medical/healthcare,lost/stolen
 Alaska Department of Health and Social Services,2013,501,medical/healthcare,hacking
 OVH,2013,0,tech,hacking
-Target Corporation,2013,"110,000,000",organization,hacking
-Central Hudson Gas & Electric,2013,"110,000",organization,hacking
-Citigroup,2013,"150,000",organization,poor_security
-TerraCom & YourTel,2013,"170,000",tech,accidental
-Florida Department of Juvenile Justice,2013,"100,000",government/military,lost/stolen
-Facebook,2013,"6,000,000",tech,accidental
-Scribd,2013,"500,000",tech,hacking
-Evernote,2013,"50,000,000",tech,hacking
-Ubuntu,2013,"2,000,000",tech,hacking
-"Crescent Health Inc., Walgreens",2013,"100,000",medical/healthcare,lost/stolen
-Nintendo (Club Nintendo),2013,"240,000",tech,hacking
-SnapChat,2013,"4,700,000",tech,hacking
-Twitter,2013,"250,000",tech,hacking
-Apple,2013,"275,000",tech,hacking
-Drupal,2013,"1,000,000",tech,hacking
-Living Social,2013,"50,000,000",tech,hacking
+Target Corporation,2013,110000000,organization,hacking
+Central Hudson Gas & Electric,2013,110000,organization,hacking
+Citigroup,2013,150000,organization,poor_security
+TerraCom & YourTel,2013,170000,tech,accidental
+Florida Department of Juvenile Justice,2013,100000,government/military,lost/stolen
+Facebook,2013,6000000,tech,accidental
+Scribd,2013,500000,tech,hacking
+Evernote,2013,50000000,tech,hacking
+Ubuntu,2013,2000000,tech,hacking
+"Crescent Health Inc., Walgreens",2013,100000,medical/healthcare,lost/stolen
+Nintendo (Club Nintendo),2013,240000,tech,hacking
+SnapChat,2013,4700000,tech,hacking
+Twitter,2013,250000,tech,hacking
+Apple,2013,275000,tech,hacking
+Drupal,2013,1000000,tech,hacking
+Living Social,2013,50000000,tech,hacking
 Albert Einstein Healthcare Network,2013,613,medical/healthcare,lost/stolen
-Yahoo Japan,2013,"22,000,000",tech,hacking
-Vodafone,2013,"2,000,000",tech,inside_job
-Advocate Medical Group,2013,"4,000,000",medical/healthcare,lost/stolen
-Washington State court system,2013,"160,000",government/military,hacking
-Tumblr,2013,"65,469,298",tech,hacking
-Yahoo,2013,"3,000,000,000",tech,hacking
-South Africa police,2013,"16,000",government/military,hacking
-Dun & Bradstreet,2013,"1,000,000",tech,hacking
-Adobe Systems,2013,"152,000,000",tech,hacking
-Kirkwood Community College,2013,"125,000",education/academic,hacking
-Kroll Background America,2013,"1,000,000",tech,hacking
+Yahoo Japan,2013,22000000,tech,hacking
+Vodafone,2013,2000000,tech,inside_job
+Advocate Medical Group,2013,4000000,medical/healthcare,lost/stolen
+Washington State court system,2013,160000,government/military,hacking
+Tumblr,2013,65469298,tech,hacking
+Yahoo,2013,3000000000,tech,hacking
+South Africa police,2013,16000,government/military,hacking
+Dun & Bradstreet,2013,1000000,tech,hacking
+Adobe Systems,2013,152000000,tech,hacking
+Kirkwood Community College,2013,125000,education/academic,hacking
+Kroll Background America,2013,1000000,tech,hacking
 Ubisoft,2013,0,tech,hacking
 South Miami Hospital,2013,834,medical/healthcare,hacking
 Lancaster General Medical Group,2013,527,medical/healthcare,lost/stolen
@@ -977,30 +977,30 @@ Santa Fe Medical Group,2013,843,organization,hacking
 Loi Luu,2013,13177,organization,lost/stolen
 St. Mary Mercy Hospital,2013,1488,organization,hacking
 Tennessee Rural Health Improvement Association,2013,79000,medical/healthcare,hacking
-Militarysingles.com,2012,"163,792",tech,accidental
-Zappos,2012,"24,000,000",tech,hacking
-Global Payments,2012,"7,000,000",organization,hacking
-Office of the Texas Attorney General,2012,"6,500,000",government/military,accidental
-South Carolina Government,2012,"6,400,000",medical/healthcare,inside_job
-Yahoo! Voices,2012,"450,000",tech,hacking
-"Apple, Inc./BlueToad",2012,"12,367,232",tech,accidental
-Formspring,2012,"420,000",tech,accidental
-"Iranian banks (three: Saderat, Eghtesad Novin, and Saman)",2012,"3,000,000",organization,hacking
-California Department of Child Support Services,2012,"800,000",government/military,lost/stolen
-US Medicaid,2012,"780,000",government/military,hacking
-Gamigo,2012,"8,000,000",tech,hacking
-TD Bank,2012,"260,000",organization,hacking
-Massive American business hack including 7-Eleven and Nasdaq,2012,"160,000,000",organization,hacking
+Militarysingles.com,2012,163792,tech,accidental
+Zappos,2012,24000000,tech,hacking
+Global Payments,2012,7000000,organization,hacking
+Office of the Texas Attorney General,2012,6500000,government/military,accidental
+South Carolina Government,2012,6400000,medical/healthcare,inside_job
+Yahoo! Voices,2012,450000,tech,hacking
+"Apple, Inc./BlueToad",2012,12367232,tech,accidental
+Formspring,2012,420000,tech,accidental
+"Iranian banks (three: Saderat, Eghtesad Novin, and Saman)",2012,3000000,organization,hacking
+California Department of Child Support Services,2012,800000,government/military,lost/stolen
+US Medicaid,2012,780000,government/military,hacking
+Gamigo,2012,8000000,tech,hacking
+TD Bank,2012,260000,organization,hacking
+Massive American business hack including 7-Eleven and Nasdaq,2012,160000000,organization,hacking
 Barnes & Noble,2012,63564564,organization,hacking
-Greek government,2012,"9,000,000",government/military,hacking
-KT Corporation,2012,"8,700,000",tech,hacking
-Emory Healthcare,2012,"315,000",medical/healthcare,poor_security
-Dropbox,2012,"68,648,009",tech,hacking
-New York State Electric & Gas,2012,"1,800,000",organization,inside_job
-Blizzard Entertainment,2012,"14,000,000",tech,hacking
-Syrian government (Syria Files),2012,"2,434,899",government/military,hacking
-Rambler.ru,2012,"98,167,935",tech,hacking
-"LinkedIn, eHarmony, Last.fm",2012,"8,000,000",tech,accidental
+Greek government,2012,9000000,government/military,hacking
+KT Corporation,2012,8700000,tech,hacking
+Emory Healthcare,2012,315000,medical/healthcare,poor_security
+Dropbox,2012,68648009,tech,hacking
+New York State Electric & Gas,2012,1800000,organization,inside_job
+Blizzard Entertainment,2012,14000000,tech,hacking
+Syrian government (Syria Files),2012,2434899,government/military,hacking
+Rambler.ru,2012,98167935,tech,hacking
+"LinkedIn, eHarmony, Last.fm",2012,8000000,tech,accidental
 Texas Tech Unversity Health Sciences Center,2012,629,medical/healthcare,hacking
 SynerMed / Inland Valleys IPA,2012,3164,medical/healthcare,other
 "Community Support Services, Inc.",2012,1167,medical/healthcare,hacking
@@ -1035,41 +1035,41 @@ Wm. Jennings Bryan Dorn VA Medical Center,2012,3637,medical/healthcare,lost/stol
 AdminisTEP,2012,4469,organization,hacking
 North Big Horn Hospital,2012,1607,medical/healthcare,hacking
 "Murali Menon, Privacy Manager Breach",2012,6051,medical/healthcare,hacking
-Nemours Foundation,2011,"1,055,489",medical/healthcare,lost/stolen
-Steam,2011,"35,000,000",tech,hacking
-Nexon Korea Corp,2011,"13,200,000",tech,hacking
-Accendo Insurance Co.,2011,"175,350",medical/healthcare,poor_security
-U.S. law enforcement (70 different agencies),2011,"123,461",government/military,accidental
-Sutter Medical Center,2011,"4,243,434",medical/healthcare,lost/stolen
-Morgan Stanley Smith Barney,2011,"34,000",organization,lost/stolen
-Health NetÒ¥ IBM,2011,"1,900,000",medical/healthcare,lost/stolen
-Sony Online Entertainment,2011,"24,600,000",tech,hacking
-University of WisconsinÑMilwaukee,2011,"73,000",education/academic,hacking
-San Francisco Public Utilities Commission,2011,"180,000",government/military,hacking
-Honda Canada,2011,"283,000",organization,poor_security
-Sega,2011,"1,290,755",tech,hacking
-Writerspace.com,2011,"62,000",tech,hacking
-Spartanburg Regional Healthcare System,2011,"400,000",medical/healthcare,lost/stolen
+Nemours Foundation,2011,1055489,medical/healthcare,lost/stolen
+Steam,2011,35000000,tech,hacking
+Nexon Korea Corp,2011,13200000,tech,hacking
+Accendo Insurance Co.,2011,175350,medical/healthcare,poor_security
+U.S. law enforcement (70 different agencies),2011,123461,government/military,accidental
+Sutter Medical Center,2011,4243434,medical/healthcare,lost/stolen
+Morgan Stanley Smith Barney,2011,34000,organization,lost/stolen
+Health NetÒ¥ IBM,2011,1900000,medical/healthcare,lost/stolen
+Sony Online Entertainment,2011,24600000,tech,hacking
+University of WisconsinÑMilwaukee,2011,73000,education/academic,hacking
+San Francisco Public Utilities Commission,2011,180000,government/military,hacking
+Honda Canada,2011,283000,organization,poor_security
+Sega,2011,1290755,tech,hacking
+Writerspace.com,2011,62000,tech,hacking
+Spartanburg Regional Healthcare System,2011,400000,medical/healthcare,lost/stolen
 Oregon Department of Transportation,2011,0,government/military,poor_security
-Memorial Healthcare System,2011,"102,153",medical/healthcare,lost/stolen
-Bethesda Game Studios,2011,"200,000",tech,hacking
-"Chinese tech websites (three: Duowan, 7K7K, 178.com)",2011,"10,000,000",tech,hacking
-China Software Developer Network,2011,"6,000,000",tech,hacking
-Citigroup,2011,"360,083",organization,hacking
-Massachusetts Government,2011,"210,000",government/military,poor_security
-Tricare,2011,"4,901,432",medical/healthcare,lost/stolen
-Southern California Medical-Legal Consultants,2011,"300,000",medical/healthcare,hacking
-Sony Pictures,2011,"1,000,000",tech,hacking
-Stratfor,2011,"935,000",government/military,accidental
-Washington Post,2011,"1,270,000",tech,hacking
-U.S. Army,2011,"50,000",government/military,accidental
-Restaurant Depot,2011,"200,000",organization,hacking
-NHS,2011,"8,300,000",medical/healthcare,lost/stolen
-State of Texas,2011,"3,500,000",government/military,accidental
-Sony PlayStation Network,2011,"77,000,000",tech,hacking
-Tianya Club,2011,"28,000,000",tech,hacking
-Eisenhower Medical Center,2011,"514,330",medical/healthcare,lost/stolen
-Countrywide Financial Corp,2011,"2,500,000",organization,inside_job
+Memorial Healthcare System,2011,102153,medical/healthcare,lost/stolen
+Bethesda Game Studios,2011,200000,tech,hacking
+"Chinese tech websites (three: Duowan, 7K7K, 178.com)",2011,10000000,tech,hacking
+China Software Developer Network,2011,6000000,tech,hacking
+Citigroup,2011,360083,organization,hacking
+Massachusetts Government,2011,210000,government/military,poor_security
+Tricare,2011,4901432,medical/healthcare,lost/stolen
+Southern California Medical-Legal Consultants,2011,300000,medical/healthcare,hacking
+Sony Pictures,2011,1000000,tech,hacking
+Stratfor,2011,935000,government/military,accidental
+Washington Post,2011,1270000,tech,hacking
+U.S. Army,2011,50000,government/military,accidental
+Restaurant Depot,2011,200000,organization,hacking
+NHS,2011,8300000,medical/healthcare,lost/stolen
+State of Texas,2011,3500000,government/military,accidental
+Sony PlayStation Network,2011,77000000,tech,hacking
+Tianya Club,2011,28000000,tech,hacking
+Eisenhower Medical Center,2011,514330,medical/healthcare,lost/stolen
+Countrywide Financial Corp,2011,2500000,organization,inside_job
 University of Mississippi Medical Center,2011,500,medical/healthcare,other
 Granger Medical Clinic,2011,2600,medical/healthcare,other
 The Guidance Center of Westchester,2011,1416,medical/healthcare,hacking

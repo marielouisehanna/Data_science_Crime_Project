@@ -6,8 +6,16 @@ df = pd.read_csv(r'C:\Users\marie\Desktop\data\Data_science_Crime_Project\data\c
 # Ensure column names are standardized (strip any whitespace and convert to lowercase)
 df.columns = df.columns.str.strip().str.lower()
 
-# Remove rows where 'organization_type' is 'others' (if the column exists)
-df = df[df['records'] != 'others']
+#df = df[df['records'] != '0.0']
+# Drop rows where the 'records' column has a value of 0
+
+
+# Convert the 'records' column to numeric, removing commas if necessary
+df['records'] = pd.to_numeric(df['records'].str.replace(',', '', regex=True), errors='coerce')
+
+# Now filter out rows where 'records' is 0
+
+df = df[df['records'] != 0]
 
 
 # Define a dictionary for 'method' replacements
@@ -71,6 +79,8 @@ method_replacements = {
 df['method'] = df['method'].str.strip().str.lower()
 df['method'] = df['method'].replace(method_replacements)
 
+# Replace commas with nothing in the 'records' column
+df['records'] = df['records'].str.replace(',', '', regex=True)
 
 # Save the modified DataFrame to a new file
 output_path = r'C:\Users\marie\Desktop\data\Data_science_Crime_Project\data\processed_data.csv'
