@@ -7,10 +7,8 @@ df = pd.read_csv(r'C:\Users\marie\Desktop\data\Data_science_Crime_Project\data\c
 df.columns = df.columns.str.strip().str.lower()
 
 # Remove rows where 'organization_type' is 'others' (if the column exists)
-if 'method' in df.columns:
-    df = df[df['method'] != 'others']
-else:
-    print("Warning: 'organization_type' column not found in the dataset.")
+df = df[df['records'] != 'others']
+
 
 # Define a dictionary for 'method' replacements
 type_replacements = {
