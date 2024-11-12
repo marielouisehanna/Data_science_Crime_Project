@@ -66,7 +66,7 @@ method_replacements = {
     "unprotected api": "unprotected",
     "data exposed by misconfiguration": "misconfiguration",
     "accidentally uploaded": "accidental",
-    "poor security / hacked": "hacking",
+    "poor security / hacked": "poor_security",
     "social engineering": "other"
 }
 # Assuming 'method' is the column you want to modify
