@@ -52,11 +52,17 @@ Each data point in the dataset provides a wealth of information to support in-de
 - **Modeling**: TBD.
 
 ## Results and Insights 💡
-TBD.
-
+- Discovered notable trends in crime data over time and identified key areas of focus.
+- Highlighted patterns in crime distribution across different regions and categories.
+- Uncovered relationships between various factors influencing crime rates.
+- Provided actionable recommendations to inform decision-making and future research.
+  
 ## Contribors 🤝
-hon men 7ott asemina kellna.
-
+- Mohamad medlej 221689
+- Anthony Chartouni 220380
+- Lyne Khalife 220472
+- Marielouise Hanna 222178
+- Youssef saade 220958
 
 
 ---
