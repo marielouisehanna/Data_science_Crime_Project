@@ -3,9 +3,4 @@ numpy>=1.21.0
 matplotlib>=3.4.0
 seaborn>=0.11.0
 scikit-learn>=0.24.0
-imblearn.over_sampling import SMOTE
-sklearn.model_selection
-sklearn.ensemble import RandomForestClassifier
-sklearn.metrics import accuracy_score, classification_report, confusion_matrix
-sklearn.preprocessing import LabelEncoder
-
+imbalanced-learn>=0.8.0
