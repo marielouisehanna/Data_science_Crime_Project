@@ -3,3 +3,10 @@ numpy>=1.21.0
 matplotlib>=3.4.0
 seaborn>=0.11.0
 scikit-learn>=0.24.0
+from imblearn.over_sampling import SMOTE
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
+from sklearn.preprocessing import LabelEncoder
+import os
